@@ -2,10 +2,8 @@ These are the codes I wrote during my 3-month internship at the IARC between Jun
 
 Here is a list of what can be found in each folder:
 
-\begin{itemize}
-  \item[-] Folder \texttt{001_data_analysis}: the data analyses performed during the project;
-  \item[-] Folder \texttt{002_coxmodel}: the implementation of the Cox P.H. model, along with the absolute risks computations;
-  \item[-] Folder \texttt{003_riskgroups}: how the participants were ranked in their risk groups;
-  \item[-] Folder \texttt{004_multlogreg}: using the ANOVA method to filter proteins and applying the multinomial logistic regression models on the filtered proteins;
-  \item[-] Folder \texttt{005_plotsproteins}: plotting the proteins with heatmaps to see the comparisons.
-\end{itemize}
+- [] Folder ```001_data_analysis```: the data analyses performed during the project;
+- [] Folder ```002_coxmodel```: the implementation of the Cox P.H. model (```survival``` package), along with the absolute risks computations;
+- [] Folder ```003_riskgroups```: how the participants were ranked in their risk groups;
+- [] Folder ```004_multlogreg_proteins```: using the ANOVA method to filter proteins and applying the multinomial logistic regression models (```glmnet``` package) on the filtered proteins;
+- [] Folder ```005_visualisations_proteins```: plotting the proteins with heatmaps (```pheatmap``` package) to see the comparisons.

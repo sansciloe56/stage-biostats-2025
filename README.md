@@ -1,4 +1,4 @@
-These are the codes I wrote during my 3-month internship at the IARC between June 2025 until August 2025 for the end of my Master 1 in Econometrics and Statistics at the ISFA. The project I worked on is about cancer avoidance and proteomics.
+These are the codes I wrote during my 3-month internship between June 2025 until August 2025 for the end of my Master 1 in Econometrics and Statistics at the ISFA. The project I worked on is about cancer avoidance and proteomics.
 
 Here is a list of what can be found in each folder:
 
